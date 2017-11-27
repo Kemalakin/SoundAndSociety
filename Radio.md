@@ -2,7 +2,9 @@
 
 -Main reference of the following text is *Keywords in Sounds*.
 
-### Brief History and Technical Details
+### Radio as Wireless Sound
+
+#### Brief History and Technical Details
 
 Radio is basically an electronic device that receives the emitted radio waves from radio station, and converts it to audible sound. There is a controversy about who invented the radio, but its patent belongs to Italian invertor G. Marconi (1896). On the other hand, the invention can be regarded as a collective invention since there were too many scientists and engineers working on wireless communication at that time.
 
@@ -18,17 +20,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 Türkiye'de ilk radyo yayını, Eşref Şefik'in bu anonsu ile bundan tam 85 yıl önce 6 Mayıs 1927'de başladı. 6 Mayıs 1927'de Sirkeci Büyük Postane'de 5 kilowatlık verici ile yapılan ilk radyo yayını, henüz kimsede radyo bulunmadığından ötürü her aksam posta binasının kapısının üzerine yerleştirilen hoparlör aracılığıyla duyruluyordu.
 
-
-
-### Radio as Wireless Sound 
-
-  
-
-
-
-
-
-### Radio's Social Historicity
+## Radio's Social Historicity
 
 "The voice of fighting Algeria" 
 
@@ -38,4 +30,4 @@ Cezayir Bağımsızlık Savaşı, Cezayirli Müslüman Araplar ile Avrupalı Cez
 
 
 
-### Indigenous Radio and the Remediation of Kinship
+
