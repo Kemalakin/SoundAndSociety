@@ -50,6 +50,21 @@ CMB is electromagnetic radiation left over from an early stage of the universe a
 
 ![](http://www.bigbangcentral.com/images/planck_2013.jpg)
 
+Since the hot Big Bang was generally not taken seriously at the time, and there were no apparatus
+or devices to observe this radiation, people did not give much attention to this work. There
+are a lot of examples like this in the history of cosmology and astrophysics, mostly stemming
+from the fact that technology, and thus observations, were some way behind the theories. The
+verification to CMB came in 1964 accidentally, Arno Penzias and Robert Wilson were working on
+an antenna made for satellite communication. They tried to calibrate the antenna for the minimum
+noise environment. What they found was the annoying ground noise in “every” (indicates
+isotropy) direction, they interpreted this situation as universe is filled with excess radiation that
+corresponds to 3.5 Kelvin temperature of blackbody. R. Dicke was leading another research group
+in Princeton that were studying CMB and they understood immediately this is the evidence for
+CMB. In 1978 Penzias and Wilson took the Nobel Physics Prize for their discovery. In 1989 and
+2001 The National Aeronautics and Space Administration (NASA) sent two probes, which are
+COBE (Cosmic Background Explorer) and WMAP (Wilkinson Microwave Anisotropy Probe), to
+space to measure CMB more precisely. Another important cosmological information that comes
+from CMB is the geometry of the universe.
 
 
 
