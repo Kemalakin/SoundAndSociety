@@ -15,6 +15,10 @@
 
 ### Radio's Social Historicity
 
+"The voice of fighting Algeria" 
+
+Cezayir Bağımsızlık Savaşı, Cezayirli Müslüman Araplar ile Avrupalı Cezayirlilerin arasındaki sürtüşmenin, 130 yıllık koloni yönetimine karşı bir isyana dönüşmesiyle başladı.
+
 
 
 
