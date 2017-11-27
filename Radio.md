@@ -1,22 +1,22 @@
-#Radio (Daniel Fisher)
+# Radio (Daniel Fisher)
 
-- Main reference of the text is *Keywords in Sounds*.
-
-
-
-
-
-##Radio as Wireless Sound 
+-Main reference of the text is *Keywords in Sounds*.
 
 
 
 
 
-
-##Radio's Social Historicity
-
+## Radio as Wireless Sound 
 
 
 
 
-##Indigenous Radio and the Remediation of Kinship
+
+
+## Radio's Social Historicity
+
+
+
+
+
+## Indigenous Radio and the Remediation of Kinship
