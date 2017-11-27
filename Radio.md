@@ -46,7 +46,11 @@ According to Collins (2009), radio waves assisted to investigation of the world'
 
 #### Brief Note on CMB
 
-CMB is electromagnetic radiation left over from an early stage of the universe and also the most important evidence of hot Big Bang model of the universe.
+CMB is the another fundamental part of observational cosmology
+and evidence of the hot Big Bang. CMB is the oldest light that comes from radiation dominated
+epoch, or epoch of recombination. Recombination is the combination of two charged particles to
+produce neutral hydrogen atoms. The universe was only 380,000 years old when the CMB photons started streaming freely.
+CMB was predicted in 1948 by Gamow and his colleagues Alpher and Bethe.
 
 ![](http://www.bigbangcentral.com/images/planck_2013.jpg)
 
