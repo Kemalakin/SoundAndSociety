@@ -10,7 +10,7 @@ Radio involves a wide range of audio and musical media, from commercial, public 
 
 In Turkey, first radio broadcasting began in 1927 after one or two years which radio broadcasting started in the world. [ [1] ](http://iletisim.ieu.edu.tr/flows/?p=1143)
 
-In 1949, there was two radio transmitters in Turkey. In 1949 November, Istanbul radio station begun to broadcasting. Also, ITÜ which started its broadcasting in 1946.[1](http://iletisim.ieu.edu.tr/flows/?p=1143)
+In 1949, there was two radio transmitters in Turkey. In 1949 November, Istanbul radio station begun to broadcasting. Also, ITÜ which started its broadcasting in 1946.[[1]](http://iletisim.ieu.edu.tr/flows/?p=1143)
 
 
 
