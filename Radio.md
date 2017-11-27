@@ -14,7 +14,7 @@ In Turkey, first radio broadcasting began in 1927 after one or two years which r
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EB8wIR6RA40
 " target="_blank"><img src="http://img.youtube.com/vi/EB8wIR6RA40/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 
 
