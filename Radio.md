@@ -48,7 +48,7 @@ According to Collins (2009), radio waves assisted to investigation of the world'
 
 CMB is electromagnetic radiation left over from an early stage of the universe and also the most important evidence of hot Big Bang model of the universe.
 
-                              ![](http://www.bigbangcentral.com/images/planck_2013.jpg)
+![](http://www.bigbangcentral.com/images/planck_2013.jpg)
 
 
 
