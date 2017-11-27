@@ -8,9 +8,8 @@ Radio is basically an electronic device that receives the emitted radio waves fr
 
 Radio involves a wide range of audio and musical media, from commercial, public to pirate broadcasting. Invention of the *wireless sound* has opened up new horizons. By 1920s wireless sound was understood as both a military necessity and commercial opportunity.
 
-In Turkey, first radio broadcasting began in 1927 after one or two years which radio broadcasting started in the world. [ [1] ](http://iletisim.ieu.edu.tr/flows/?p=1143)
+In Turkey, first radio broadcasting began in 1927 after one or two years which radio broadcasting started in the world. By 1949, there were two radio transmitters in Turkey. ITÜ and Istanbul radio station begun to broadcasting in 1946 and 1949 respectively.[ [1] ](http://iletisim.ieu.edu.tr/flows/?p=1143)
 
-In 1949, there was two radio transmitters in Turkey. In 1949 November, Istanbul radio station begun to broadcasting. Also, ITÜ which started its broadcasting in 1946.[[1]](http://iletisim.ieu.edu.tr/flows/?p=1143)
 
 
 
