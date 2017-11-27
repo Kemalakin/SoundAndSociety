@@ -1,6 +1,6 @@
 ## Radio (Daniel Fisher)
 
--Main reference of the text is *Keywords in Sounds*.
+-Main reference of the following text is *Keywords in Sounds*.
 
 ### Brief History and Technical Details
 
