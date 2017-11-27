@@ -22,9 +22,29 @@ Türkiye'de ilk radyo yayını, Eşref Şefik'in bu anonsu ile bundan tam 85 yı
 
 ## Radio's Social Historicity
 
+Radio itself is a spatial metaphor. It indexes the cultural imagination of a broadcast signal that gathers its audience through waves of sound.
+
+An important example:
+
 "The voice of fighting Algeria" 
 
-Cezayir Bağımsızlık Savaşı, Cezayirli Müslüman Araplar ile Avrupalı Cezayirlilerin arasındaki sürtüşmenin, 130 yıllık koloni yönetimine karşı bir isyana dönüşmesiyle başladı.
+Algeria was a dominion country of France for 130 years. The radio program had an important role in the formations of anarchist politics and Algerian anticolonial nationalists and therefore the independency of the country.
+
+Cezayir Bağımsızlık Savaşı, Cezayirli Müslüman Araplar ile Avrupalı Cezayirlilerin arasındaki sürtüşmenin, 130 yıllık Fransız koloni yönetimine karşı bir isyana dönüşmesiyle başladı.
+
+### Some Reports and Thoughts on Radio
+
+According to study of Dougles (2004), for some listeners:
+
+- Radio evoked claustrophobia with the sense of presence of unimaginable numbers of people being always and everywhere.
+
+- On the contrary, just like the "walkman effect", some people reported they felt isolated in crowd.
+
+According to Kitler, radio itself receded to limits of awareness. Remote things became "ready-to-hand" with wireless sound/information and this leads to complexity and expansiveness. I interpreted this as just like internet provides everything, not only information, but disinformation and distraction.
+
+According to Collins (2009), radio waves assisted to investigation of the world's hidden magnetic music. While "radio" generally works by acquiring intentionally transmitted electromagnetic (EM) signals, there are also unintentionally generated EM frequencies, for instance lightning, sunspots, galactic sounds, crosstalk between systems, Cosmic Microwave Background (CMB), etc.
+
+#### Brief Note on CMB
 
 
 
